@@ -2,4 +2,4 @@ test test
 # best-repo-ever
 
 test test
-test2coflict
+test2conflict2
